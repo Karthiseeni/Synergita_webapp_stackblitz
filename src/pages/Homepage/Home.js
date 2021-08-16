@@ -4,9 +4,9 @@ import {
   homeObjOne,
   homeObjThree,
   homeObjTwo
-} from '../../components/Data/SolutionData';
-import FeatureSection from '../../components/featureHero/FeatureSection';
-import SolutionHero from '../../components/SolutionHero/SolutionHero';
+} from '/components/Data/SolutionData';
+import FeatureSection from '/components/featureHero/FeatureSection';
+import SolutionHero from '/components/SolutionHero/SolutionHero';
 import HeaderSection from './HeaderSection/HeaderSection';
 
 function Home() {

@@ -1,7 +1,7 @@
 import React from 'react';
 import { Button } from '../../../components/Button/Button';
 import './HeaderSection.css';
-import headerImg from '../../../assets/images/header_img.png';
+import headerImg from '/assets/images/header_img.png';
 function HeaderSection({ buttonLabel }) {
   return (
     <div className="hero-header">

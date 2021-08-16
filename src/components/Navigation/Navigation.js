@@ -4,8 +4,8 @@ import { FaBars, FaTimes } from 'react-icons/fa';
 import { IconContext } from 'react-icons/lib';
 import { Button } from '../../components/Button/Button';
 import './Navigation.css';
-import LogoImg from '../../assets/images/synergita-logo-1.png';
-import dropDown_arrow from '../../assets/images/down_arrow.png';
+import { LogoImg } from '/assets/images/synergita-logo-1.png';
+import { dropDown_arrow } from '/assets/images/down_arrow.png';
 function Navigation() {
   const [click, setClick] = useState(false);
   const [button] = useState(true);
