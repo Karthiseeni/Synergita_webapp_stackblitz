@@ -1,0 +1,30 @@
+.solution__hero-section {
+  padding: 50px 0;
+}
+.solution__hero-text-wrapper {
+  max-width: 540px;
+  padding-top: 0;
+  padding-bottom: 60px;
+}
+.solution__hero-subtitle {
+  max-width: 440px;
+  margin-bottom: 35px;
+  line-height: 24px;
+}
+.list {
+  color: black;
+  padding-left: 50px;
+}
+.list-para {
+  text-decoration: none;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+img {
+  border: 0;
+  max-width: 100%;
+  vertical-align: middle;
+  display: inline-block;
+}
